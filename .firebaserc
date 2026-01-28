@@ -1,9 +1,9 @@
 {
   "projects": {
-    "default": "alfahadniloy-61bbe"
+    "default": "alfahadniloy"
   },
   "targets": {
-    "alfahadniloy-61bbe": {
+    "alfahadniloy": {
       "hosting": {
         "portfolio": [
           "alfahadniloy"
