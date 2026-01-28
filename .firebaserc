@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "alfahadniloy"
+    "default": "alfahadniloy-61bbe"
   },
   "targets": {
-    "alfahadniloy": {
+    "alfahadniloy-61bbe": {
       "hosting": {
         "portfolio": [
-          "alfahadniloy"
+          "alfahadniloy-61bbe"
         ]
       }
     }
